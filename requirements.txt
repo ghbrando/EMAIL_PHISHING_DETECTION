@@ -1,0 +1,6 @@
+dotenv
+neo4j
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
+llama-index-graph-stores-neo4j
+llama-index
